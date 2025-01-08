@@ -3,11 +3,9 @@
 Ferramentas utilizadas:
 
 * Kali Linux;
-* SeToolkit;
-
-<div class="tenor-gif-embed" data-postid="6174378334881019365" data-share-method="host" data-aspect-ratio="1.2987" data-width="100%"><a href="https://tenor.com/view/gato-mouse-gif-6174378334881019365">Gato Mouse GIF</a>from <a href="https://tenor.com/search/gato-gifs">Gato GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-Como configurar um Phishing no Kali Linux:
+* Setoolkit.
+  
+## Como configurar um Phishing no Kali Linux: ##
 
 1. Criar uma máquina virtual com a iso do Kali Linux.
     
